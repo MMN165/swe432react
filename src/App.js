@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Hooks from './Hooks';
 import './App.css';
 import Fetcher from './Fetcher';
 
